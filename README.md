@@ -16,3 +16,10 @@ _cal.fits (Level 2b) -- galaxy wings appear
 Stage 3: Combining multiple exposures within an observation
 
 _i2d.fits (Level 2c) -- drizzled image
+
+
+Issues:
+* match background levels in short wavelength detectors
+* 1/f noise striping
+* wisps
+* snowballs
