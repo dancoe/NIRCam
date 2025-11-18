@@ -2,7 +2,7 @@
 
 Visualize JWST NIRCam dither patterns and generates exposure depth maps showing coverage across the field of view.
 
-![](fullbox6tight.png)
+![](intramodulebox4.png)
 
 ## Features
 
